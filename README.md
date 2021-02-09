@@ -1,1 +1,2 @@
 # GraphNeural_practice_bypytorch
+pytorch-geometricでGNN
